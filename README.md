@@ -13,8 +13,9 @@ The accept event and read event are driven by epoll, so the main thread will not
 cd src
 make
 ./serv
+open the browser and visit http://127.0.0.1:3000/
 ```
 
 ## Thanks
 Thanks for google and Linux.
-And thank you for your reading.
+And thank you for reading.
